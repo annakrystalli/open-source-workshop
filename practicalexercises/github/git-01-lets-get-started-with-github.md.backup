@@ -1,4 +1,4 @@
-# Let's get started with Git and GitHub
+# Let's get started with Git and GitHub through GitKraken
 
 [[<<PREVIOUS: What is version control]](../../02-what-is-version-control) -
 [[Table of Contents]](../../index) - [[NEXT: Cloning and collaborating>>]](git-02-cloning-and-collaborating)
@@ -24,12 +24,12 @@ new project. We'll start by creating a new repository to get the feel for things
 	<img src="assets/init-2-gk.png" alt="title picture" width="700px">
 	\
 	- __Account:__ In which account you want the repository to be created to. This can be your account or an organization that you have access to.
-	- __Name:__  The name of the repository let's say _mytest_.
+	- __Name:__  The name of the repository let's say _git-lesson_.
 	- __Description:__ Optional, but every repository should have a small description!
 	- __Access:__ Public or Private.
-	- __Clone after init:__ This checkbox tells GitKraken to run the clone procedure we did before after creating the new repository.
+	- __Clone after init:__ This checkbox tells GitKraken to run the clone procedure. This essentially creates a copy of the repository to the folder you will specify afterwards.
 	- __Where to clone to:__ Select the folder where the repository will be hosted if selected to be cloned. Let's say again _D:/GitHub_.
-	- __Full path:__ This should now be _D:/GitHub/mytest_
+	- __Full path:__ This should now be _D:/GitHub/git-lesson_
 	- __License:__ A license is mainly a list of permissions that other people who want to use your code can do. For example you may want others to use your code but only if they accredited you. [choosealicense.com](https://choosealicense.com/) can help you choose the right license. For open source repositories MIT and GNU GPLv3 are usually appropriate licenses.
 
 	<img src="assets/init-4-gk.png" alt="title picture" width="700px">
@@ -44,38 +44,86 @@ new project. We'll start by creating a new repository to get the feel for things
 
 Okay! Now we need to do something with the repository. Let's start with a basic use-case and make a single file that lists some to-do items. The repository is just a normal folder on your computer where you can create and edit files like normal.
 
-## Add a file to the repo.
+## Add a file to the repo
 
-1. In GitHub desktop, click on `Repository` in the top menu and open the folder where your repository resides. (On a Mac, this is `Open in Finder`). You should already see a LICENCE file that GitHub desktop automatically generated for you.
-2. Create a new file in this directory! I've called mine todos.txt, but you could name it anything you like and it can be any type of file. Make sure to save it when you're done.
-3. Hop over to GitHub desktop again. You should see the new file you added!
-4. Now it's time to "commit" you work. This is creating a "save point" you can come back to at any time. Aim to do this whenever you've done a small, complete chunk of work. On the bottom left of your GitHub Desktop window you should have a box that says "Summary". Type a short sentence describing what you've done into this box. I put "Added To-dos for Monday."
-5. Press the big blue "Commit to master" button.
+1. Open the folder which hosts the repo you have just created. This can be done using GitKraken, just go to File > Open in File Manager. 
+
+	<img src="assets/work-1-gk.png" alt="title picture" width="700px">
+
+2. Now create a file in this directory, you can also drag and drop files or folders. For this example let's say that we create the file *TODO.txt*.
+
+	<img src="assets/work-2-gk.png" alt="title picture" width="700px">
+
+3. Hop over to GitKraken again. You should see the new file you added! 
+
+	<img src="assets/work-3-gk.png" alt="title picture" width="700px">
+
+4. Now it's time to **commit** you work. This is creating a *save point* you can come back to at any time. Aim to do this whenever you've done a small, complete chunk of work. GitKraken provides an easy to use interface for this job:
+	\
+	- __Unstaged Files:__ Here you have a view of all the local changes of your repository. You can also see the changes done to each file by just clicking on it. You have the option to **stage** all the changes or some of them. Staging is essentially a commit preparation process.
+	- __Staged Files:__ All files or folders which are selected to be committed will be moved in this area.
+	- __Commit Message:__ Commit creates a save point and every save point should have a title as well as a small description so we know why it was done. Remember some projects last for years and many other projects will spawn in the meantime. So when we revisit an old  repository or we want to go back in time to find a specific change we should be able to do that with minimum effort!
+	- __Commit changes to n files:__ Pressing this button will commit our changes *to our local repository*.
+
+	<img src="assets/work-4-gk.png" alt="title picture" width="700px">
+
+5. 	Now that we have commited our changes locally we have to **push** them up to the remote repository. This is done by pressing the **Push** button on the top of GitKraken.
+
+	<img src="assets/work-5-gk.png" alt="title picture" width="700px">	
+
 
 ## Check out the Git history
-Now, if you look at the history tab, (top left in GitHub Desktop) you can see two commits. The first was automatically done by GitHub Desktop when you created the repo - and the second should be yours!
+Now, if you look at the history of the repository you can see two commits. The first was automatically done by GitKraken when you created the repository - and the second should be yours!
+
+<img src="assets/work-6-gk.png" alt="title picture" width="700px">	
+
 
 ## Make some more changes
 
 1. We've gotten some work done, so we'd like to update our to-do list.
-  - Delete one item from your list.
-  - add another two items to the list.
-2. If you take a look at the file now, you should see the lines you removed highlighted in red, and all new lines are highlighted in green. This is really handy when you have been making a lot of changes or writing notes. No more "FIX THIS" accidentally being saved in a commit! The representation of changes is also known as the 'diff' (short for difference).
-3. Once you're ready, type another summary message and save your commit.
+  - Update the list with all the tasks we have completed.
+  - Add any pending tasks
 
-## Pushing and pulling to a remote source.
+2. Commit and push the changes in the TODO.txt. *Don't forget to type a summary message* before you commit!
 
-Right now your work is only on your computer - it's neither open nor backed up yet. Let's publish it on GitHub.
+<img src="assets/work-7-gk.png" alt="title picture" width="700px">	
 
-1. In GitHub desktop, you should see a "Publish Repository" in a bar along the top. Click it!
-2. Make sure you're happy with the repository name
-3. Untick the "Keep this repository private"
-4. Click "Publish repository".
-5. Go to [github.com](http://www.github.com) and navigate to your new repository. You should be able to see all the files and commits you made previously.
-6. On your computer, add another item to your to-do list, then save the file and commit it on GitHub Desktop. If you look at your repository on github.com, has it updated? (Hint: There's a button in GitHub Desktop you'll need to press in order to push it.)
-7. You can also edit files on GitHub directly (without using GitHub Desktop). As we've already learned, files don't automatically synchronise with your GitHub desktop client, so you'll need to fetch your changes in GitHub Desktop by clicking the "Fetch" button (this will tell you how many updates there have been, if any), and then click it a second time to pull the changes down onto your computer.
+<img src="assets/work-8-gk.png" alt="title picture" width="700px">	
 
-### Minor note about the differences between Git, GitHub, and GitHub Desktop
+
+## Pushing and pulling to a remote source
+
+**Push** makes sure that your work is not only in your computer but "online" which means:
+
+  - It is backed up.
+  - You can access it from any location.
+  - If your repository is open, other people can benefit from your work, they can contribute, reference you or even make recommendations.
+  
+Now, what if you you make changes directly on the GitHub repository or using another machine ? These changes are not locally synchronized with your primary computer. This is where **pull** comes into play.  
+
+1. Navigate to your repository in GitHUb and check *README.md*. GitHub automatically uses this file to create the long description of this repository which at the moment should be a mere *git-lesson*. To edit this file click on the small pencil icon. This icon is available for any file if you click on it but specifically for README.md it's also available as soon as you enter your repository.
+
+	<img src="assets/work-9-gk.png" alt="title picture" width="700px">	
+
+2. Now let's add some text, *Markdown* text.
+
+	<img src="assets/work-11-gk.png" alt="title picture" width="700px">
+
+3. Let's see how our Markdown code is rendered and check for typos in the text. If we are happy we can commit the changes. Since we are working online on GitHub there is no **push**.
+
+	<img src="assets/work-10-gk.png" alt="title picture" width="700px">
+
+4. Now back to GitKraken we see that our remote repository is ahead of our local. We can also check out local README.md file and we will see that it is not updated. In order to synchronize the remote with the local repositories we have to use **Pull**. This will "download" any updates on the remote repository to our local one.
+
+	<img src="assets/work-12-gk.png" alt="title picture" width="700px">
+
+5. Let's seen what happened after pulling the remote repository.
+
+	<img src="assets/work-13-gk.png" alt="title picture" width="700px">
+
+
+
+## Minor note about the differences between Git, GitHub, and GitHub Desktop
 
 Git, Github Desktop, and Github are three separate things. Git is the system used for version control, but you don't have to use it with GitHub or GitHub desktop.
 
