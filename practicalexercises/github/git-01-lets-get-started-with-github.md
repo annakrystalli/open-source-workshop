@@ -3,7 +3,7 @@
 [[<<PREVIOUS: What is version control]](../../02-what-is-version-control) -
 [[Table of Contents]](../../index) - [[NEXT: Cloning and collaborating>>]](git-02-cloning-and-collaborating)
 
-![](.\assets\gk01.jpg)
+![](assets\gk01.jpg)
 
 We'll be using [GitHub](http://www.github.com) and [GitKraken](https://www.gitkraken.com/). If you don't already have a GitHub account, please
 register for one now at [github.com](http://www.github.com).
