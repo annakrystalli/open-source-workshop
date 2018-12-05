@@ -1,28 +1,119 @@
-# What is version control?
+# Intro: What is version control and working open?
 
-[[<<PREVIOUS: What is open source?]](01-what-is-open-source) -
 [[Table of Contents]](index) - [[NEXT: Let's get started with GitHub>>]](practicalexercises/github/git-01-lets-get-started-with-github)
 
   Hands up - _who has heard of version control software?_  
   _What do you think it does?_
 
-## Version control software
 
-Version control software allows you to effectively "save" your work at important
- points in time and come back to any of the save points.
+## What is Version control? :thinking:
 
-## Some popular options:
+The **management of changes** to documents, computer programs, large web sites, and other collections of information.
 
-- GitHub [https://github.com/](https://github.com/)
-- BitBucket [https://bitbucket.org/](https://bitbucket.org/)
-- GitLab [https://gitlab.com](https://gitlab.com)
+**Examples:**
+- Numbering of book editions
+- Wikipedia's Page history
 
-## WHY use it?
 
-- never mess up again.
-- okay - you _will_ still mess up, but it means you can recover your mistakes.
-- it makes collaborating on code much easier
-- it provides offsite backups (so long as you push your work to a remote server). We've all heard stories of people who had their hard-drives corrupted or computers stolen before. With Git (or other version control) this never needs to happen again!
+### Where did it come from?
 
-[[<<PREVIOUS: What is open source?]](01-what-is-open-source) -
+> The need for a logical way to organize and control revisions has existed for almost as long as writing has existed,  but revision control became much more important, and complicated when the era of computing began
+
+### Elements of a Version Control system
+
+- Changes are usually identified by a number or letter code, termed the "revision number"
+
+- Each revision is associated with a timestamp and the person making the change. 
+
+- Only changes to a file are recorded rather than saving a whole new copy.
+
+- Revisions can be compared, restored, and with some types of files, merged.
+
+---
+
+## What is git?
+
+An open source (free to use) Version control system
+
+![](https://avatars3.githubusercontent.com/u/18133?s=200&v=4)
+
+### Where did it come from?
+
+Git development began in 2006 after many developers of the Linux kernel gave up access to [BitKeeper](http://www.bitkeeper.org/) (at the time the best but proprietary)
+
+Linus Torvalds on the name **`git`**: 
+
+> "I'm an egotistical bastard, and I name all my projects after myself. First 'Linux', now 'git'
+
+<small>More on the name in the source code original [readme](https://github.com/git/git/tree/e83c5163316f89bfbde7d9ab23ca2e25604af290) file</small>
+
+---
+
+## Why use it in research? 
+
+### Exhibit A
+
+![](http://smutch.github.io/VersionControlTutorial/_images/vc-xkcd.jpg)
+
+---
+
+### Exhibit B
+
+
++ mythesis_draft.docx
++ mythesis_final.docx
++ mythesis_final_from_supervisor.docx
++ mythesis_final_from_supervisor_corrected.docx
++ etc. *ad infinitum*
+
+
+## what is GitHub
+
+Online **Hub** in which repositories can be stored remotely. The ome of alot of Open Source
+
+
+### why use it:
+
+- Acts as a remote back-up
+- Facilitates transparency
+- Facilitates project management
+- Facilitates sharing and collaboration
+- Super-charges innovation
+  + [Reinventing Discovery](https://www.amazon.co.uk/Reinventing-Discovery-New-Networked-Science/dp/0691160198/ref=sr_1_1?ie=UTF8&qid=1544031907&sr=8-1&keywords=reinventing+discovery)
+  + [Macroecological and macroevolutionary patterns emerge in the universe of GNU/Linux operating systems](https://onlinelibrary.wiley.com/doi/10.1111/ecog.03424)
+
+
+## Anatomy of GitHub Repo
+
+- **Readme files**. Create a `README.md` file to explain what your project is, and how to install and use it. `README.md` is the file that is automatically displayed when you open a GitHub repo.
+
+- **License**. Without some sort of licence, the contents of the repository are technically closed. Some allow users of the code to do anything they like with their code - these are known as permissive licences. Examples are the [MIT Licence](https://tldrlegal.com/license/mit-license) or [Apache](https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)).
+    + [https://choosealicense.com/](https://choosealicense.com/) - does what it says on the tin and helps you choose a licence. Here are some resources to help you choose:
+    + [https://tldrlegal.com/](https://tldrlegal.com/) - plain english explanations of licences in bullet form.
+    
+- **Contributing guide** - make a file called CONTRIBUTING.md and guidelines for contributors so they know what they should do if they want to help you out.
+
+- **Code of Conduct** - good projects have codes of conduct to make sure that people are treated well. Github has an [Code of Conduct wizard](https://help.github.com/articles/adding-a-code-of-conduct-to-your-project/) to make it easy to add one.
+
+- **Issues** - use GitHub issues to record and discuss tasks.
+
+(This list was largely inspired by Mozilla's open leadership 101.)
+
+### Example repositories
+
+- [An rOpenSci Labs package: `dataspice`](https://github.com/ropenscilabs/dataspice)
+- [A research compendium shared on GitHub: _Ecology Letters review paper: Noise-driven phenomena in population biology_](https://github.com/cboettig/noise-phenomena)
+
+
+## Recap: git & GitHub
+### WHAT is it?
+
+git allows you to effectively "save" your work at important points in time and come back to any of the save points.
+ 
+Sharing our work on GitHub allows others to inspect our work, make copies and contribute back changes. 
+
+## Never forget
+
+![](https://optimalbi.com/wp-content/uploads/2018/02/gitsave-300x210.png)
+
 [[Table of Contents]](index) - [[NEXT: Let's get started with GitHub>>]](practicalexercises/github/git-01-lets-get-started-with-github)
