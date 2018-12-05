@@ -20,7 +20,12 @@
 - [Google Summer of Code](https://summerofcode.withgoogle.com/) - many scientific / research projects participate.
   - Student? Learn how to work open source by contributing to an Open Source project for three months over the summer (students only): https://summerofcode.withgoogle.com/ (Applications in March-April)
   - Do you lead an open project? Apply to participate as a mentor organisation, or join an umbrella organisation. (Applications in January)
-  
+
+## More on Git
+
+- [Git-it](http://jlord.us/git-it/)
+- [Oh Shit Git](http://ohshitgit.com/)
+ 
 ## More on GitHub
 
 ### Syncing forks
