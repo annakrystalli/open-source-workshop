@@ -1,7 +1,7 @@
 # Using GitHub to make a webpage
 
-[[<<PREVIOUS: Let's get started with Git and GitHub]](git-01-lets-get-started-with-github.md) -
-[[Table of Contents]](../../index) - [[NEXT: Cloning and collaborating: contributing changes>>]](git-03-cloning-and-collaborating.md)
+[[<<PREVIOUS: Let's get started with Git and GitHub]](git-01-lets-get-started-with-github) -
+[[Table of Contents]](../../index) - [[NEXT: Cloning and collaborating: contributing changes>>]](git-03-cloning-and-collaborating)
 
 Still not convinced that GitHub is something you should be using? There's another great feature: They make it relatively straightforward to create a website for free, using [markdown](https://help.github.com/categories/writing-on-github/) and [GitHub pages](https://pages.github.com/). This site is written entirely in Markdown and hosted in GitHub - you can [browse the code yourself](https://github.com/open-source-for-researchers/open-source-workshop), and even fork it or make pull requests.
 
@@ -81,5 +81,5 @@ Now you need to enable GitHub Pages in order to see it turn into a live website.
 3. You can also select a theme if you like!
 4. Once this is done, you should see a green message saying "Your site is published at some-link.github.io". Click on it - and ta-da! You have a website.
 
-[[<<PREVIOUS: Let's get started with Git and GitHub]](git-01-lets-get-started-with-github.md) -
-[[Table of Contents]](../../index) - [[NEXT: Cloning and collaborating: contributing changes>>]](git-03-cloning-and-collaborating.md)
+[[<<PREVIOUS: Let's get started with Git and GitHub]](git-01-lets-get-started-with-github) -
+[[Table of Contents]](../../index) - [[NEXT: Cloning and collaborating: contributing changes>>]](git-03-cloning-and-collaborating)

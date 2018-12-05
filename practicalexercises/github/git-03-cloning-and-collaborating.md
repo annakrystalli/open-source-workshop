@@ -1,7 +1,7 @@
 # Cloning and collaborating: contributing changes
 
-[[<<PREVIOUS: Websites with GitHub pages>>]](git-02-websites-with-github-pages.md) -
-[[Table of Contents]](../../index) - [[NEXT: Cloning and collaborating: managing contributions>>]](git-04-more-cloning-and-collaborating.md)
+[[<<PREVIOUS: Websites with GitHub pages>>]](git-02-websites-with-github-pages) -
+[[Table of Contents]](../../index) - [[NEXT: Cloning and collaborating: managing contributions>>]](git-04-more-cloning-and-collaborating)
 
 So far, we've learnt how to create repositories, commit files, and push/pull the files to a remote source like GitHub. Here we'll practice collaborating with someone else. There are two approaches to collaborating on GitHub:
 
@@ -12,8 +12,6 @@ If your code is online on GitHub and has an open licence, anyone can [fork](http
 
 
 <img src="assets/clone.png" width="700px" />
-
-
 
 
 Let's explore forking and cloning a GitHub repository through a fun exercise.
@@ -31,7 +29,7 @@ Let's explore forking and cloning a GitHub repository through a fun exercise.
 
 - In this exercise, each participant will **fork a GitHub repository**, and **contribute a file** required to simulate the *evolutionary trajectory of an imaginary species' body size*.
 
-We'll merge all contributions and [plot them together at the end!](http://rpubs.com/annakrystalli/278074) 
+We'll merge all contributions and [plot them together at the end!](http://rse.shef.ac.uk/collaborative_github_exercise/plot_trait_evolution.html) 
 
 
 - We'll use **GitHub to collate all species files** and **plot** them all up together at the end! We'll also **discover the skull and beak shapes** associated with each simulated species size.
@@ -302,7 +300,7 @@ Navigating to the `params/` folder, you should now see the params file you creat
 - **commit & push** your changes
 - **create a pull request** to the upstream repo
 
-We'll merge all contributions and [plot them together at the end!](http://rpubs.com/annakrystalli/278074) 
+We'll merge all contributions and [plot them together at the end!](http://rse.shef.ac.uk/collaborative_github_exercise/plot_trait_evolution.html) 
 
 
 Last tip: You can actually [make pull requests in GitKraken](https://support.gitkraken.com/working-with-repositories/pull-requests)!
@@ -323,5 +321,5 @@ If you are working in a team with others you trust, you can edit repository sett
 
 To add a collaborator to your repository, in your GitHub repository online, go to the settings tab (top leftish), then click on the "Collaborators and teams" link on the left. 
 
-[[<<PREVIOUS: Websites with GitHub pages>>]](git-02-websites-with-github-pages.md) -
-[[Table of Contents]](../../index) - [[NEXT: Cloning and collaborating: managing contributions>>]](git-04-more-cloning-and-collaborating.md)
+[[<<PREVIOUS: Websites with GitHub pages>>]](git-02-websites-with-github-pages) -
+[[Table of Contents]](../../index) - [[NEXT: Cloning and collaborating: managing contributions>>]](git-04-more-cloning-and-collaborating)
