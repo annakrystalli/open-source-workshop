@@ -14,7 +14,7 @@ Next, let's get started on some practical exercises.
 This process can be done with an existing project that isn't in git yet, or a
 new project. We'll start by creating a new repository to get the feel for things.
 
-1. In GitKraken, make sure you're logged in.
+1. In GitKraken, make sure you're logged in to GitHub.
 2. Create a new repository (File > Init Repo)
 
 	<img src="assets/init-1-gk.png" alt="title picture" width="700px">
@@ -125,14 +125,14 @@ Now, what if you you make changes directly on the GitHub repository or using ano
 
 ## Minor note about the differences between Git, GitHub, and GitKraken
 
-Git, Github Desktop, and Github are three separate things. Git is the system used for version control, but you don't have to use it with GitHub or GitHub desktop.
+Git, GitKraken, and Github are three separate things. Git is the system used for version control, but you don't have to use it with GitHub or GitKraken.
 
 
 **Git:** version control software. Usually accessed via the command line, or a client program.
 
 **GitHub:** a website that allows you to store your Git repositories online and makes it easy to collaborate with others. They also provide other services like issue (bug) tracking and wikis. Similar services are [GitLab](https://gitlab.com) and [BitBucket](https://bitbucket.org/).
 
-**GitKraken:** A client for Git that uploads your work to GitHub. Another is [SourceTree](https://www.sourcetreeapp.com/), and there's a [big list of clients on the git website](https://git-scm.com/download/gui/windows).
+**GitKraken:** A client for working with Git that uploads your work to GitHub. Another is [SourceTree](https://www.sourcetreeapp.com/), and there's a [big list of clients on the git website](https://git-scm.com/download/gui/windows).
 
 
 [[<<PREVIOUS: What is version control]](../../02-what-is-version-control) -
