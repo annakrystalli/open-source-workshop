@@ -1,16 +1,9 @@
-# Cloning and collaborating
+# More cloning and collaborating: managing contributions
 
-[[<<PREVIOUS: Let's get started with GitHub]](git-01-lets-get-started-with-github) -
-[[Table of Contents]](../../index) - [[NEXT: Making websites with GitHub Pages>>]](git-03-websites-with-github-pages)
+[[<<PREVIOUS: Cloning and collaborating: contributing changes>>]](git-03-cloning-and-collaborating.md) -
+[[Table of Contents]](../../index) - [[NEXT: More advanced things to think about>>]](git-05-more-advanced-things-to-think-about.md)
 
-So far, we've learnt how to create repositories, commit files, and push/pull the files to a remote source like GitHub. Here we'll practice collaborating with someone else.
-
-## Two ways to collaborate
-
-### Forking, cloning, and pull requests
-If your code is online on GitHub and has an open licence, anyone can [fork](https://help.github.com/articles/fork-a-repo/) (make a separate copy of) your repository and work on it.
-
-#### Fork a repo and make a pull request
+In the previous exercise you practiced forking and cloning someone else's repository and contributing changes. In this exercise you'll get the opportunity to have others submit pull requests to your repository and merge them in!
 
 1. For this exercise, team up with someone near you. Share the URL of your repository with your team-mate.
 2. Go to your team-mate's repository on GitHub. Click on the Fork button on the top right of the page.
@@ -35,11 +28,7 @@ Once a PR is made, it isn't automatically accepted. The repository owner doesn't
   - If you're happy with the changes, hop back over to the **conversation** tab and click the big green "Merge pull request" button.
   - If you think there are changes or improvements to be made - leave a polite comment asking for clarification or changes!
 
-### The other way to collaborate - give someone repository access rights!
 
-If you are working in a team with others you trust, you can edit repository settings so everyone who is working on the code can make commits directly to the same repository. Sometimes people will do this for small fixes, typos, etc. but still make pull requests for bigger changes - this allows collaborators to review your code before it's merged into the main codebase, ensuring it has enough documentation and test it for bugs.
+[[<<PREVIOUS: Cloning and collaborating: contributing changes>>]](git-03-cloning-and-collaborating.md) -
+[[Table of Contents]](../../index) - [[NEXT: More advanced things to think about>>]](git-05-more-advanced-things-to-think-about.md)
 
-To add a collaborator to your repository, in your GitHub repository online, go to the settings tab (top leftish), then click on the "Collaborators and teams" link on the left. 
-
-[[<<PREVIOUS: Let's get started with GitHub]](git-01-lets-get-started-with-github) -
-[[Table of Contents]](../../index) - [[NEXT: Making websites with GitHub Pages>>]](git-03-websites-with-github-pages)
