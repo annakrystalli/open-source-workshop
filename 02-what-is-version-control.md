@@ -38,7 +38,7 @@ The **management of changes** to documents, computer programs, large web sites, 
 
 Open source (free to use) Version control software. Usually accessed via the command line, or a client program.
 
-<img src="practicalexercises/github/assets/git_logo.jpg" height="100px">
+<img src="practicalexercises/github/assets/git_logo.jpg" width="200px">
 
 
 
@@ -52,6 +52,8 @@ Linus Torvalds on the name **`git`**:
 
 <small>More on the name in the source code original [readme](https://github.com/git/git/tree/e83c5163316f89bfbde7d9ab23ca2e25604af290) file</small>
 
+<br>
+
 ---
 
 ## Why use it in research? 
@@ -60,31 +62,40 @@ Linus Torvalds on the name **`git`**:
 
 ![](http://smutch.github.io/VersionControlTutorial/_images/vc-xkcd.jpg)
 
----
+
 
 ### Exhibit B
 
 
-+ mythesis_draft.docx
-+ mythesis_final.docx
-+ mythesis_final_from_supervisor.docx
-+ mythesis_final_from_supervisor_corrected.docx
-+ etc. *ad infinitum*
+<img src="http://www.phdcomics.com/comics/archive/phd101212s.gif" height="400px">
+
+<br>
+
+---
 
 
-## what is GitHub
+
+## What is GitHub
+
+<img src="practicalexercises/github/assets/github_logo.jpg" width="200px">
+
+A **website** that allows you to **store your Git repositories online** and makes it easy to collaborate with others. They also provide other services like issue (bug) tracking and wikis. Similar services are [GitLab](https://gitlab.com) and [BitBucket](https://bitbucket.org/).
 
 
-A website that allows you to store your Git repositories online and makes it easy to collaborate with others. They also provide other services like issue (bug) tracking and wikis. Similar services are [GitLab](https://gitlab.com) and [BitBucket](https://bitbucket.org/).
+### Why use it in research:
 
+<img src="practicalexercises/github/assets/workflows.png" width="700px">
+<img src="practicalexercises/github/assets/collab.png" width="700px">
 
-### why use it:
+<br>
 
 - Acts as a remote back-up
 - Facilitates transparency
 - Facilitates project management
 - Facilitates sharing and collaboration
-- Super-charges innovation
+- Super-charges innovation by Open Sourcing Science
+  + [Mozilla & Working Open](https://www.youtube.com/watch?v=quKdaqlR_9w)
+  + [Open Source Basics](https://www.youtube.com/watch?v=Tyd0FO0tko8)
   + [Reinventing Discovery](https://www.amazon.co.uk/Reinventing-Discovery-New-Networked-Science/dp/0691160198/ref=sr_1_1?ie=UTF8&qid=1544031907&sr=8-1&keywords=reinventing+discovery)
   + [Macroecological and macroevolutionary patterns emerge in the universe of GNU/Linux operating systems](https://onlinelibrary.wiley.com/doi/10.1111/ecog.03424)
 
@@ -111,19 +122,33 @@ A website that allows you to store your Git repositories online and makes it eas
 - [A research compendium shared on GitHub: _Ecology Letters review paper: Noise-driven phenomena in population biology_](https://github.com/cboettig/noise-phenomena)
 
 
+<br>
+
+---
+
 ## What is GitKraken
 
 **GitKraken:** A client for working with Git that uploads your work to GitHub. Another is [SourceTree](https://www.sourcetreeapp.com/), and there's a [big list of clients on the git website](https://git-scm.com/download/gui/windows).
 
+<img src="practicalexercises/github/assets/gitkraken_logo.png" width="200px">
 
-## Recap: git & GitHub
-### WHAT is it?
+<br>
+
+---
+
+## Recap: git, GitHub, & GitKraken
+
 
 git allows you to effectively "save" your work at important points in time and come back to any of the save points.
  
 Sharing our work on GitHub allows others to inspect our work, make copies and contribute back changes. 
 
-## Never forget
+GitKraken allows you to work with both from a single graphical user interface.
+
+Git, GitKraken, and Github are three separate things. Git is the system used for version control, but you don't have to use it with GitHub or GitKraken.
+
+
+### Always remember
 
 ![](https://optimalbi.com/wp-content/uploads/2018/02/gitsave-300x210.png)
 
