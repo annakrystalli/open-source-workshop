@@ -9,10 +9,10 @@ A collection of explanations and short practical exercises to help researchers l
     - [Practical exercise: Let's get started with Git & GitHub through GitKraken](practicalexercises/github/git-01-lets-get-started-with-github)
         - Setting up a repository and uploading it
         - Pushing and pulling changes.
-    - [Practical exercise: Cloning and Collaborating 1](practicalexercises/github/git-03-cloning-and-collaborating)
-        - Share a GitHub repository and collaborate with colleagues using pushes and pull requests.
-    - [Practical exercise: Cloning and Collaborating 2](practicalexercises/github/git-04-more-cloning-and-collaborating)
-        - Share a GitHub repository and collaborate with colleagues using pushes and pull requests.
+    - [Practical exercise: Cloning and Collaborating: contributing changes](practicalexercises/github/git-03-cloning-and-collaborating)
+        - Fork and clone a GitHub repository, make a change and contribute it through a pull request.
+    - [Practical exercise: Cloning and Collaborating: managing contributions](practicalexercises/github/git-04-more-cloning-and-collaborating)
+        - Share a GitHub repository and collaborate with colleagues using pull requests.
     - [Practical exercise: Website with GitHub pages](practicalexercises/github/git-02-websites-with-github-pages)
         - Still not sold on using GitHub? You can use it to make a website with relatively low effort using 
     - [Practical exercise: Trying more advanced things](practicalexercises/github/git-05-more-advanced-things-to-think-about)
