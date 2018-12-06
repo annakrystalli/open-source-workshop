@@ -1,7 +1,7 @@
 # Extra things to try
 
-[[<<PREVIOUS: Cloning and collaborating: managing contributions>>]](git-04-more-cloning-and-collaborating) -
-[[Table of Contents]](../../index) - [[NEXT: What makes an open source project good?>>]](../../03-what-makes-an-open-source-project-good)
+[[<<PREVIOUS: Websites with GitHub pages>>]](git-02-websites-with-github-pages)
+ - [[Table of Contents]](../../index) - [[NEXT: What makes an open source project good?>>]](../../03-what-makes-an-open-source-project-good)
 
 ## Revert a commit
 
@@ -16,5 +16,5 @@ Sometimes there are files you don't want to commit to your repository. Examples 
 - **Command line** - there are a lot of other commands you can use with Git. If you're feeling brave,
 - **Git Branching** - if you're working on more than one thing at once, you can create a separate [branch](https://www.atlassian.com/git/tutorials/using-branches) for each bit of work. This guide uses Git on the command line.
 
-[[<<PREVIOUS: Cloning and collaborating: managing contributions>>]](git-04-more-cloning-and-collaborating) -
-[[Table of Contents]](../../index) - [[NEXT: What makes an open source project good?>>]](../../03-what-makes-an-open-source-project-good)
+[[<<PREVIOUS: Websites with GitHub pages>>]](git-02-websites-with-github-pages)
+ - [[Table of Contents]](../../index) - [[NEXT: What makes an open source project good?>>]](../../03-what-makes-an-open-source-project-good)

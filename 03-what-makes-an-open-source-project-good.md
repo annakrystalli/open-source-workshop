@@ -1,4 +1,4 @@
-[[<<PREVIOUS: More advanced things to think about>>]](git-05-more-advanced-things-to-think-about.md) -
+[[<<PREVIOUS: More advanced things to think about>>]](git-05-more-advanced-things-to-think-about) -
 [[Table of Contents]](index) - [[NEXT: How to start contributing to open source>>]](04-how-to-start-contributing-to-open-source)
 
 # What makes an open source project good and useful?
@@ -27,5 +27,5 @@ Here are some ways to help you choose:
 - [https://choosealicense.com/](https://choosealicense.com/) - does what it says on the tin and helps you choose a licence.
 - [https://tldrlegal.com/](https://tldrlegal.com/) - plain english explanations of licences in bullet form.
 
-[[<<PREVIOUS: More advanced things to think about>>]](git-05-more-advanced-things-to-think-about.md) -
+[[<<PREVIOUS: More advanced things to think about>>]](git-05-more-advanced-things-to-think-about) -
 [[Table of Contents]](index) - [[NEXT: How to start contributing to open source>>]](04-how-to-start-contributing-to-open-source)

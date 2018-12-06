@@ -6,15 +6,15 @@ A collection of explanations and short practical exercises to help researchers l
 1. [What is version control through Git & GitHub?](02-what-is-version-control)
     - Define version control & discuss it purpose.  
 2. Practical exercises with Git & GitHub
-    - [Practical exercise: Let's get started with Git](practicalexercises/github/git-01-lets-get-started-with-github)
+    - [Practical exercise: Let's get started with Git & GitHub through GitKraken](practicalexercises/github/git-01-lets-get-started-with-github)
         - Setting up a repository and uploading it
         - Pushing and pulling changes.
-    - [Practical exercise: Website with GitHub pages](practicalexercises/github/git-02-websites-with-github-pages)
-        - Still not sold on using GitHub? You can use it to make a website with relatively low effort
     - [Practical exercise: Cloning and Collaborating 1](practicalexercises/github/git-03-cloning-and-collaborating)
         - Share a GitHub repository and collaborate with colleagues using pushes and pull requests.
     - [Practical exercise: Cloning and Collaborating 2](practicalexercises/github/git-04-more-cloning-and-collaborating)
         - Share a GitHub repository and collaborate with colleagues using pushes and pull requests.
+    - [Practical exercise: Website with GitHub pages](practicalexercises/github/git-02-websites-with-github-pages)
+        - Still not sold on using GitHub? You can use it to make a website with relatively low effort using 
     - [Practical exercise: Trying more advanced things](practicalexercises/github/git-05-more-advanced-things-to-think-about)
         - Extra stuff to investigate when you're comfortable with the first few lessons
   

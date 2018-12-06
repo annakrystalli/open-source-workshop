@@ -1,7 +1,7 @@
 # More cloning and collaborating: managing contributions
 
 [[<<PREVIOUS: Cloning and collaborating: contributing changes>>]](git-03-cloning-and-collaborating) -
-[[Table of Contents]](../../index) - [[NEXT: More advanced things to think about>>]](git-05-more-advanced-things-to-think-about)
+[[Table of Contents]](../../index) - [[NEXT: Websites with GitHub pages>>]](git-02-websites-with-github-pages)
 
 In the previous exercise you practiced forking and cloning someone else's repository and contributing changes. In this exercise you'll get the opportunity to have others submit pull requests to your repository and merge them in!
 
@@ -30,5 +30,5 @@ Once a PR is made, it isn't automatically accepted. The repository owner doesn't
 
 
 [[<<PREVIOUS: Cloning and collaborating: contributing changes>>]](git-03-cloning-and-collaborating) -
-[[Table of Contents]](../../index) - [[NEXT: More advanced things to think about>>]](git-05-more-advanced-things-to-think-about)
+[[Table of Contents]](../../index) - [[NEXT: Websites with GitHub pages>>]](git-02-websites-with-github-pages)
 

@@ -130,9 +130,14 @@ Git, GitKraken, and Github are three separate things. Git is the system used for
 
 **Git:** version control software. Usually accessed via the command line, or a client program.
 
-**GitHub:** a website that allows you to store your Git repositories online and makes it easy to collaborate with others. They also provide other services like issue (bug) tracking and wikis. Similar services are [GitLab](https://gitlab.com) and [BitBucket](https://bitbucket.org/).
 
-**GitKraken:** A client for working with Git that uploads your work to GitHub. Another is [SourceTree](https://www.sourcetreeapp.com/), and there's a [big list of clients on the git website](https://git-scm.com/download/gui/windows).
+
+
+### `Git` tips
+
+- commit early, commit often
+- commit logical bits of work together
+- write meaninful messages
 
 
 [[<<PREVIOUS: What is version control]](../../02-what-is-version-control) -

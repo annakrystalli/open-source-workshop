@@ -1,6 +1,6 @@
 # Cloning and collaborating: contributing changes
 
-[[<<PREVIOUS: Websites with GitHub pages>>]](git-02-websites-with-github-pages) -
+[[<<PREVIOUS: Let's get started with Git and GitHub]](git-01-lets-get-started-with-github) -
 [[Table of Contents]](../../index) - [[NEXT: Cloning and collaborating: managing contributions>>]](git-04-more-cloning-and-collaborating)
 
 So far, we've learnt how to create repositories, commit files, and push/pull the files to a remote source like GitHub. Here we'll practice collaborating with someone else. There are two approaches to collaborating on GitHub:
@@ -321,5 +321,5 @@ If you are working in a team with others you trust, you can edit repository sett
 
 To add a collaborator to your repository, in your GitHub repository online, go to the settings tab (top leftish), then click on the "Collaborators and teams" link on the left. 
 
-[[<<PREVIOUS: Websites with GitHub pages>>]](git-02-websites-with-github-pages) -
+[[<<PREVIOUS: Let's get started with Git and GitHub]](git-01-lets-get-started-with-github) -
 [[Table of Contents]](../../index) - [[NEXT: Cloning and collaborating: managing contributions>>]](git-04-more-cloning-and-collaborating)
