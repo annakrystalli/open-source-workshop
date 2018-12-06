@@ -41,7 +41,7 @@ When a local directory becomes **initialised with git**, a **hidden `.git` folde
 
 	<img src="assets/init-2-gk.png" alt="title picture" width="700px">
 	
-  - __Account:__ The account in which you want the repository to be created under. This can be your account or an organization that you have access to.
+	- __Account:__ The account in which you want the repository to be created under. This can be your account or an organization that you have access to.
 
 	- __Name:__  The name of the repository, let's say _git-lesson_.
 
