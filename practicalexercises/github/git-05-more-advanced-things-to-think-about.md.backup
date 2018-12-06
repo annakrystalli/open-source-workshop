@@ -9,7 +9,9 @@ Imagine you've made a mistake, and committed something you didn't intend to - ma
 
 ## Ignore files
 
-Sometimes there are files you don't want to commit to your repository. Examples might the the `.DS_Store` file automatically generated on Mac systems, or autosave backup files that some text generators add. Such files can be excluded from showing up as modified if they are included in the **.gitignore** file. More information about using gitignore can be found [here](https://www.atlassian.com/git/tutorials/saving-changes/gitignore).
+Sometimes there are files you don't want to commit to your repository. Examples might the the `.DS_Store` file automatically generated on Mac systems, or autosave backup files that some text generators add. Such files can be excluded from showing up as modified if they are included in the **.gitignore** file. More information about git
+
+[More abut .gitignore](https://www.atlassian.com/git/tutorials/saving-changes/gitignore)
 
 ## A few more things
 
