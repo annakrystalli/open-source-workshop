@@ -5,9 +5,16 @@
 
 <img src="assets/gk01a.png" alt="title picture" width="700px">
 
+
 We'll be using [GitHub](http://www.github.com) and [GitKraken](https://www.gitkraken.com/). If you don't already have a GitHub account, please register for one now at [github.com](http://www.github.com).
 
-Next, let's get started on some practical exercises. In this section we'll be:
+Let's get started on some practical exercises. 
+
+---
+
+# Practical exercises
+
+In this section we'll be:
 
 1. Creating a new repository locally and on GitHub
 1. Making and versioning changes
@@ -21,9 +28,18 @@ Next, let's get started on some practical exercises. In this section we'll be:
 
 <br>
 
+### Configure your git profile
 
+Before we start, you might need to **configure your git profile**. You can do this in GitKraken by clinking on the avatar in the top right corner, selecting the profile to edit and clicking on **Edit A Profile**
 
----
+<img src="assets/git-profile-edit.png" alt="title picture" width="700px">
+
+Next complete the details with the **username and email you used to sign up to GitHub** and save. Git has now been configured with these details.
+
+<img src="assets/git-profile-complete.png" alt="title picture" width="700px">
+
+<br>
+
 
 ## Creating your first repository
 
