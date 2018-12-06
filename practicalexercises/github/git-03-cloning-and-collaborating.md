@@ -11,8 +11,9 @@ If your code is online on GitHub and has an open licence, anyone can [fork](http
 
 
 
-<img src="assets/clone.png" width="700px" />
+<img src="assets/clone.jpg" width="700px" />
 
+[Source](https://github.com/jlord/git-it/blob/master/guide/assets/imgs/clone.png) (c) Jessica Lord, [BSD-2](https://opensource.org/licenses/BSD-2-Clause)
 
 Let's explore forking and cloning a GitHub repository through a fun exercise.
 
@@ -21,9 +22,12 @@ Let's explore forking and cloning a GitHub repository through a fun exercise.
 
 ###  **EvoLottery: Welcome to the evolutionary lottery of skull and beak morphology**
 
-> **Beak and skull shapes in birds of prey (“raptors”) are strongly coupled and largely controlled by size.** 
+> [**Beak and skull shapes in birds of prey (“raptors”) are strongly coupled and largely controlled by size.**](http://eprints.whiterose.ac.uk/99452/1/Bright%20et%20al.%202016_SelfArchive.pdf) _Bright, J.A., Marugan-Lobon, J., Cobb, S.N. et al. (1 more
+author) (2016) The shapes of bird beaks are highly controlled by nondietary factors. PNAS, 113 (19). pp. 5352-5357._
 
 ![](assets/gif.gif)
+
+gif provided by **Jen Bright** [**@MorphobeakGeek**](https://twitter.com/MorphobeakGeek)
 
 #### Exercise aims
 
