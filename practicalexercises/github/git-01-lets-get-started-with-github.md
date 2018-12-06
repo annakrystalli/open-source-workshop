@@ -1,7 +1,7 @@
 # Let's get started with Git and GitHub through GitKraken
 
 [[<<PREVIOUS: What is version control]](../../02-what-is-version-control) -
-[[Table of Contents]](../../index) - [[NEXT: Websites with GitHub pages>>]](git-02-websites-with-github-pages)
+[[Table of Contents]](../../index) - [[NEXT: Cloning and collaborating: contributing changes>>]](git-03-cloning-and-collaborating)
 
 <img src="assets/gk01a.png" alt="title picture" width="700px">
 
@@ -209,5 +209,6 @@ Now, what if you you make changes directly on the GitHub repository or using ano
 3. write meaninful messages
 
 
+
 [[<<PREVIOUS: What is version control]](../../02-what-is-version-control) -
-[[Table of Contents]](../../index) - [[NEXT: Websites with GitHub pages>>]](git-02-websites-with-github-pages)
+[[Table of Contents]](../../index) - [[NEXT: Cloning and collaborating: contributing changes>>]](git-03-cloning-and-collaborating)
