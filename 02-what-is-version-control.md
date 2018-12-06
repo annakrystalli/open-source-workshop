@@ -5,8 +5,9 @@
   Hands up - _who has heard of version control software?_  
   _What do you think it does?_
 
+<br>
 
-## What is Version control? :thinking:
+## What is Version control? 
 
 The **management of changes** to documents, computer programs, large web sites, and other collections of information.
 
@@ -14,28 +15,32 @@ The **management of changes** to documents, computer programs, large web sites, 
 - Numbering of book editions
 - Wikipedia's Page history
 
+<br>
 
 ### Where did it come from?
 
 > The need for a logical way to organize and control revisions has existed for almost as long as writing has existed,  but revision control became much more important, and complicated when the era of computing began
 
-### Elements of a Version Control system
+#### Elements of a Version Control system
 
 - Changes are usually identified by a number or letter code, termed the "revision number"
 
 - Each revision is associated with a timestamp and the person making the change. 
-
 - Only changes to a file are recorded rather than saving a whole new copy.
 
 - Revisions can be compared, restored, and with some types of files, merged.
+
+<br>
 
 ---
 
 ## What is git?
 
-An open source (free to use) Version control system
+Open source (free to use) Version control software. Usually accessed via the command line, or a client program.
 
-![](https://avatars3.githubusercontent.com/u/18133?s=200&v=4)
+<img src="practicalexercises/github/assets/git_logo.jpg" height="100px">
+
+
 
 ### Where did it come from?
 
@@ -69,7 +74,8 @@ Linus Torvalds on the name **`git`**:
 
 ## what is GitHub
 
-Online **Hub** in which repositories can be stored remotely. The ome of alot of Open Source
+
+A website that allows you to store your Git repositories online and makes it easy to collaborate with others. They also provide other services like issue (bug) tracking and wikis. Similar services are [GitLab](https://gitlab.com) and [BitBucket](https://bitbucket.org/).
 
 
 ### why use it:
@@ -103,6 +109,11 @@ Online **Hub** in which repositories can be stored remotely. The ome of alot of 
 
 - [An rOpenSci Labs package: `dataspice`](https://github.com/ropenscilabs/dataspice)
 - [A research compendium shared on GitHub: _Ecology Letters review paper: Noise-driven phenomena in population biology_](https://github.com/cboettig/noise-phenomena)
+
+
+## What is GitKraken
+
+**GitKraken:** A client for working with Git that uploads your work to GitHub. Another is [SourceTree](https://www.sourcetreeapp.com/), and there's a [big list of clients on the git website](https://git-scm.com/download/gui/windows).
 
 
 ## Recap: git & GitHub
