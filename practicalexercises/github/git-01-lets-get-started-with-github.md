@@ -17,7 +17,7 @@ Next, let's get started on some practical exercises. In this section we'll be:
 
 <img src="assets/remotes.jpg" alt="title picture" width="700px">
 
-[Source](https://github.com/jlord/git-it/blob/master/guide/assets/imgs/remotes.png) (c) Jessica Lord, [BSD-2](https://opensource.org/licenses/BSD-2-Clause)
+<small>_[Source](https://github.com/jlord/git-it/blob/master/guide/assets/imgs/remotes.png) (c) Jessica Lord, [BSD-2](https://opensource.org/licenses/BSD-2-Clause)_</small>
 
 <br>
 

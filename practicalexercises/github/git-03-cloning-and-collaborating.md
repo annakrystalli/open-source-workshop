@@ -13,12 +13,12 @@ If your code is online on GitHub and has an open licence, anyone can [fork](http
 
 <img src="assets/clone.jpg" width="700px" />
 
-[Source](https://github.com/jlord/git-it/blob/master/guide/assets/imgs/clone.png) (c) Jessica Lord, [BSD-2](https://opensource.org/licenses/BSD-2-Clause)
+<small>_[Source](https://github.com/jlord/git-it/blob/master/guide/assets/imgs/clone.png) (c) Jessica Lord, [BSD-2](https://opensource.org/licenses/BSD-2-Clause)_</small>
+
+<br>
 
 Let's explore forking and cloning a GitHub repository through a fun exercise.
 
-
-<br>
 
 ###  **EvoLottery: Welcome to the evolutionary lottery of skull and beak morphology**
 
@@ -294,9 +294,7 @@ Navigating to the `params/` folder, you should now see the params file you creat
 ---
 
 
-
-
-#´## Exercise recap:
+### Exercise recap:
 
 - **fork the repo**: <https://GitHub.com/RSE-Sheffield/collaborative_GitHub_exer
 - **create a new params** `.R` script. Name it using your selected species name.
@@ -309,15 +307,11 @@ We'll merge all contributions and [plot them together at the end!](http://rse.sh
 
 Last tip: You can actually [make pull requests in GitKraken](https://support.gitkraken.com/working-with-repositories/pull-requests)!
 
-
-
-
-
-
-
-
+<br>
 
 ***
+
+---
 
 ### The other way to collaborate - give someone repository access rights!
 
