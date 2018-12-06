@@ -17,8 +17,6 @@ Next, let's get started on some practical exercises. In this section we'll be:
 
 <img src="assets/remotes.jpg" alt="title picture" width="700px">
 
-<small>_[Source](https://github.com/jlord/git-it/blob/master/guide/assets/imgs/remotes.png) (c) Jessica Lord, [BSD-2](https://opensource.org/licenses/BSD-2-Clause)_</small>
-
 <br>
 
 
@@ -96,7 +94,6 @@ Okay! Now we need to do something with the repository. Let's start with a basic 
 <br>
 
 - Now it's time to **commit** you work. This is creating a *save point* you can come back to at any time. Aim to do this whenever you've done a small, complete chunk of work. GitKraken provides an easy to use interface for this job:
-
     - __Unstaged Files:__ Here you have a view of all the local changes of your repository. You can also see the changes done to each file by just clicking on it. You have the option to **stage** all the changes or some of them. Staging is essentially a commit preparation process.
     
     - __Staged Files:__ All files or folders which are selected to be committed will be moved in this area.
@@ -178,7 +175,7 @@ Now, what if you you make changes directly on the GitHub repository or using ano
 
 <br>
 
-- Let's seen what happened after pulling the remote repository.
+5. Let's seen what happened after pulling the remote repository.
 
 	<img src="assets/work-13-gk.png" alt="title picture" width="700px">
 
@@ -188,9 +185,9 @@ Now, what if you you make changes directly on the GitHub repository or using ano
 
 ### `Git` tips
 
-1. commit early, commit often
-2. commit logical bits of work together
-3. write meaninful messages
+- commit early, commit often
+- commit logical bits of work together
+- write meaninful messages
 
 
 [[<<PREVIOUS: What is version control]](../../02-what-is-version-control) -
