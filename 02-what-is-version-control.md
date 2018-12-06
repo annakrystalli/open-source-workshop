@@ -42,6 +42,7 @@ Open source (free to use) Version control software. Usually accessed via the com
 
 
 
+
 ### Where did it come from?
 
 Git development began in 2006 after many developers of the Linux kernel gave up access to [BitKeeper](http://www.bitkeeper.org/) (at the time the best but proprietary)
@@ -67,7 +68,7 @@ Linus Torvalds on the name **`git`**:
 ### Exhibit B
 
 
-<img src="http://www.phdcomics.com/comics/archive/phd101212s.gif" height="400px">
+<img src="http://www.phdcomics.com/comics/archive/phd101212s.gif" height="600px">
 
 <br>
 
